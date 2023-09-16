@@ -1,30 +1,27 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Uswan - aka [Usw4nhsn]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.linkedin.com/in/muhammad-uswan-hasan-a3809a15a) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
+- 🔭 I’m currently working as a Freelancer   
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 👯 I’m looking to collaborate as a Data Automation and Analyst
+- 🤔 I’m looking for suggestions for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: uswan212@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Negeri Makassar ](https://www.unm.ac.id) | Bachelor of Accountant | Makassar `2017-x
 
+ #### 2. [SMK N 6 Makassar ] | Akuntansi | Makassar `2014-2017`
+ 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Kreasi Arduo Indonesia](https://www.artugo.co.id) | Sales Devision | Temanggung `Apr'2022 - Mei'2023`
+   - Maintenance sales growth in Temanggung area.
+   - Develop a new customer 
+   - Ensure targets are achieved
+#### 2. [PT Matra Perdana Satria | Accounting | Makassar `2018-2020`
+   - Preparing monthly financial statements
+   - Carry out financial supervision
+   
 ---
 
 ### Languages and Tools:
@@ -42,8 +39,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UChTgoBXta_m_TcazfkwtU_Q)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
